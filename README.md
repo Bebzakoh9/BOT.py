@@ -1,3 +1,3 @@
 README.md
 
-#https://github.com/bebzakoh9/joni-bot.git
+#https://github.com/Bebzakoh9/BOT.py.git
